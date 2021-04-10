@@ -1,0 +1,10 @@
+{
+    "__Author__": "龙腾猫跃，A_fight",
+	"Title": "Minecraft Wiki镜像站",
+	"Description": "当Minecraft Wiki打不开时，可以尝试镜像站",
+	"Keywords": "我的世界wikipedia镜像站bilibili",
+	"Types": ["常用网站"],
+	"IsEvent": true,
+	"EventType": "打开网页",
+	"EventData": "https://wiki.biligame.com/mc/Minecraft_Wiki"
+}
